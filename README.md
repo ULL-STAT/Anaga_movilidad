@@ -3,7 +3,7 @@
 
 [![Organismos participantes](https://ull-stat.github.io/Anaga_movilidad/images/anaga_logos.png)](https://ull-stat.github.io/Anaga_movilidad)
 
-Este repositorio contiene los conjuntos de datos utilizados para la elaboración del diseño muestral para el procedimiento de encuestación en la Reserva de la Biosfera del Macizo de Anaga. 
+Este repositorio contiene los conjuntos de datos utilizados para la elaboración del diseño muestral en el procedimiento de encuestación en la Reserva de la Biosfera del Macizo de Anaga. 
 
 
 
