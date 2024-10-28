@@ -33,13 +33,15 @@ macizo de Anaga.
 <ul>
 <li><b>Núcleos grandes (> 1,000 habitantes, sin incluir Tegueste)</b> 
 
-[![](https://ull-stat.github.io/Anaga_movilidad/images/diseño_grandes_sin_Tegueste.png)]
+![](https://ull-stat.github.io/Anaga_movilidad/images/diseño_grandes_sin_Tegueste.png)
 </li> 
 <li><b>Núcleos grandes (> 1,000 habitantes, incluyendo Tegueste)</b> 
-[![](https://ull-stat.github.io/Anaga_movilidad/images/diseño_grandes_con_Tegueste.png)]
+
+![](https://ull-stat.github.io/Anaga_movilidad/images/diseño_grandes_con_Tegueste.png)
 </li>
 <li><b>Núcleos pequeños (< 1,000 habitantes)</b> 
-[![](https://ull-stat.github.io/Anaga_movilidad/images/diseño_pequeños.png)]
+
+![](https://ull-stat.github.io/Anaga_movilidad/images/diseño_pequeños.png)
 </li>
 </ul>
 <br>
