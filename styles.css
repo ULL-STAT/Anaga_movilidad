@@ -1,0 +1,31 @@
+/*-- scss:defaults --*/
+$presentation-heading-color: red;
+$presentation-h1-font-size: 5px;
+$presentation-h1-color: red;
+
+/* $presentation-h1-font-size: 0.6rem;
+$h1-font-size:  0.6rem !default; */
+
+/*-- scss:rules --*/
+#title-slide .title {
+        font-size: 4.0em;
+        color: black;
+      }
+      
+.reveal .slide-logo {
+  max-height: 0.6em !important;
+  max-width: 12em !important;
+}
+
+
+.reveal .map img {
+  height: 80vh;
+  width: auto !important;
+  padding-left: 2em;
+}
+
+
+h1, .h1, h2, .h2, h3, .h3 {
+  margin-top: 5px;
+  font-size: 3.5rem !important;
+}
