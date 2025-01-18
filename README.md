@@ -1,3 +1,16 @@
+README
+=================
+<!-- badges: start -->
+
+[![License:
+MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://cran.r-project.org/web/licenses/MIT)
+[![GitHub
+release](https://img.shields.io/github/release/ULL-STAT/RepetPlan.svg)](https://github.com/ULL-STAT/Anaga_movilidad/releases/)
+[![Github all
+releases](https://img.shields.io/github/downloads/ULL-STAT/RepetPlan/total.svg)](https://github.com/ULL-STAT/Anaga_movilidad/releases/)
+
+<!--[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5035779.svg)](https://doi.org/10.5281/zenodo.5035779)-->
+<!-- badges: end -->
 
 # ESTRATEGIA DE MOVILIDAD SOSTENIBLE EN LA RESERVA DE LA BIOSFERA MACIZO DE ANAGA
 
