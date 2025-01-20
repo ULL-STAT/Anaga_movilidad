@@ -5,6 +5,7 @@ library(ggplot2)
 library(tibble)
 library(ggpmisc)
 library(gt)
+library(gtExtras)
 library(mapproj)
 library(sf)
 library(ggspatial)
@@ -15,6 +16,12 @@ library(stringr)
 library(ggpmisc)
 library(gridExtra)
 library(ggpubr)
+library(psych)
+library(corrplot)
+library(polycor)
+
+source("utils_new.R")
+source("gt_plt_dist_new.R")
 
 # Load data and variables #####
 
@@ -89,6 +96,14 @@ data<-data %>%
                                                              "NS/NC (ya hizo la encuesta, sólo sorteo, etc.)")),
          REp01.nucleo_resid=factor(REp01.nucleo_resid,levels=order_nucleos)
   ) 
+
+# Create age breaks and discretize values ####
+br <- c(18, 30, 40, 50, 60, 100) 
+labs_plot <- paste0("(", br[1:5], "-", br[2:6], "]")
+labs_plot[5] <- ">60"
+
+data<-data %>% mutate(edad_categ=cut(edad, breaks = br, labels=labs_plot,
+                                     dig.lab = 5,include.lowest = TRUE)) 
 
 sfdf <- read_sf("../anaga_nucleos.geojson")
 

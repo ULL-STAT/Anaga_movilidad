@@ -29,3 +29,27 @@ h1, .h1, h2, .h2, h3, .h3 {
   margin-top: 5px;
   font-size: 3.5rem !important;
 }
+
+
+
+.big-code{
+  font-size: 200%  
+}
+
+
+
+.reveal .slide ul li, .reveal .slide ol li {
+    margin-top: 0.4em;
+    margin-bottom: 0.2em;
+    font-size: 2.00rem !important;
+    
+    margin-left: 0.6vw;
+    text-indent: 0em; 
+    padding-left: 0.5em; 
+}
+
+
+
+#TOC {
+  font-size: 0.5em;
+}
