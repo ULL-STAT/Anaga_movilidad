@@ -7,6 +7,11 @@ $presentation-h1-color: red;
 $h1-font-size:  0.6rem !default; */
 
 /*-- scss:rules --*/
+#TOC {
+  font-size: 0.5em;
+}
+
+
 #title-slide .title {
         font-size: 4.0em;
         color: black;
