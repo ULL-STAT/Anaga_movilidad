@@ -19,10 +19,15 @@ releases](https://img.shields.io/github/downloads/ULL-STAT/RepetPlan/total.svg)]
 Este repositorio contiene los conjuntos de datos utilizados para la elaboración del diseño muestral en el procedimiento de encuestación en la Reserva de la Biosfera del Macizo de Anaga. 
 
 Asimismo, también se pueden consultar las siguientes presentaciones del análisis preliminar de las respuestas obtenidas en la encuesta:
-	* Perfil del encuestado
-	<a href="https://ull-stat.github.io/Anaga_movilidad/presResultsAnagaPerfil.html">Presentación del perfil del encuestado residente en Anaga</a> 
-	* Aspectos valorados en la encuesta
-	<a href="https://ull-stat.github.io/Anaga_movilidad/presResultsAnagaOpinion.html"> Presentación de resultados sobre aspectos valorados por los encuestados </a>
+<ul>
+<li><b>Perfil del encuestado
+	<a href="https://ull-stat.github.io/Anaga_movilidad/presResultsAnagaPerfil.html">Presentación del perfil del encuestado residente en Anaga</a> </b> 
+</li> 
+<li><b>Aspectos valorados en la encuesta
+	<a href="https://ull-stat.github.io/Anaga_movilidad/presResultsAnagaOpinion.html"> Presentación de resultados sobre aspectos valorados por los encuestados </a></b> 
+</li> 
+</ul>
+<br>
 
 # 📙 Lista de archivos 
 
