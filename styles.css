@@ -12,6 +12,13 @@ $h1-font-size:  0.6rem !default; */
 }
 
 
+.title-slide {
+  background-image: ./anaga2.png;
+  background-position: 2% 98%, center;
+  background-size: 100px, cover;
+}
+  
+  
 #title-slide .title {
         font-size: 4.0em;
         color: black;
